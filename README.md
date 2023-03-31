@@ -1,7 +1,7 @@
 # Scrape-RV
 
 This project uses web scraping. The code can be run from the command line,instead of the notebook;
-to do this, save the code to a file (with a .py extension), and run it using the Python interpreter:
+to do this, save the code to a file (with a .py extension), and then run it using the Python interpreter:
 
 python my_file.py
 
